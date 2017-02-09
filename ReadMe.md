@@ -1,5 +1,5 @@
-#
-[Source Page](https://www.codeproject.com/Articles/3690/MFC-classes-for-multiple-monitors)
+# Multi-Monitor Test
+Fork from [Source Page](https://www.codeproject.com/Articles/3690/MFC-classes-for-multiple-monitors). Update the project to Visual Studio 2010. Add ReadMe.md file. Nothing else is changed.
 
 ## Background
 Eveyrything you ever wanted to know about the API for multiple monitors is described in a very well written [article by David Campbell](http://www.microsoft.com/msj/0697/monitor/monitor.htm) in the June 1997 issue of MSJ.
